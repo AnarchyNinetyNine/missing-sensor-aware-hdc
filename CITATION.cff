@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this repository and the associated paper when available."
+title: "Missing-Sensor-Aware Hyperdimensional Computing for Robust Clinical Classification"
+type: software
+authors:
+  - family-names: Elgarrab
+    given-names: Idris
+    email: idris.elgarrab@ump.ac.ma
+  - family-names: Lamaakal
+    given-names: Ismail
+    email: Ismail.Lamaakal@ump.ac.ma
+keywords:
+  - hyperdimensional computing
+  - missing data
+  - clinical classification
+  - robustness
+  - reproducibility
