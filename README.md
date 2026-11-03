@@ -97,8 +97,8 @@ These experiments test retrospective, public benchmark datasets with simulated m
 
 ## Authorship and correspondence
 
+- **Ismail Lamaakal** — [Ismail.lamaakal@ump.ac.ma](mailto:Ismail.lamaakal@ump.ac.ma)
 - **Idris Elgarrab** — [idris.elgarrab@ump.ac.ma](mailto:idris.elgarrab@ump.ac.ma)
-- **Ismail Lamaakal** — [Ismail.Lamaakal@ump.ac.ma](mailto:Ismail.Lamaakal@ump.ac.ma)
 
 See [`AUTHORS`](AUTHORS) and [`CITATION.cff`](CITATION.cff).
 
