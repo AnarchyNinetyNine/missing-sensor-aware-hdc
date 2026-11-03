@@ -1,0 +1,12 @@
+# Direct dependencies used by the notebook; versions are intentionally not locked.
+# Python 3.12 recommended (per notebook metadata).
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+matplotlib-inline
+threadpoolctl
+ipython
+ipykernel
+jupyterlab
