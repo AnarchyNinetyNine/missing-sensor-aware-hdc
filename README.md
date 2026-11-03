@@ -106,10 +106,6 @@ See [`AUTHORS`](AUTHORS) and [`CITATION.cff`](CITATION.cff).
 
 If this repository supports a publication, cite the **associated paper** once its title, venue, year, and DOI are finalized. Until then, the repository can be cited using [`CITATION.cff`](CITATION.cff). No paper title, DOI, or peer-review status is assumed here.
 
-## AI assistance disclosure
-
-ChatGPT (OpenAI) was used to assist with code development and improve the readability of research materials. The authors remain responsible for the implementation, evaluation, verification, interpretations, and final scientific content. The precise model/version used should be reported consistently with the associated manuscript's disclosure statement.
-
 ## References
 
 1. UCI Machine Learning Repository. *Breast Cancer Wisconsin (Diagnostic)*. [https://doi.org/10.24432/C5DW2B](https://doi.org/10.24432/C5DW2B).
